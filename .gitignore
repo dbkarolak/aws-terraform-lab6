@@ -1,2 +1,6 @@
 .terraform/
 .terraform.lock.hcl
+terraform.tfstate
+web1_key.pem
+web2_key.pem
+key.pem
